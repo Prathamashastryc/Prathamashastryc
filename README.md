@@ -10,8 +10,8 @@
 
 My Socials:
 
-
-<a href="www.linkedin.com/in/prathamashastryc" target="_blank">
+<a href="www.linkedin.com/in/
+prathamashastryc" target="_blank">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" 
        alt="LinkedIn" width="30" height="30"/>
 </a>
