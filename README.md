@@ -10,6 +10,14 @@ About Me:
 
 ------------------------------------------------------------------------------------------------
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamashastryc&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamashastryc&hide=contribs&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamashastryc&layout=compact&theme=dracula)
+
+-----------------------------------------------------------------------------------------------------
+![Repos Badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Prathamashastryc&query=$.public_repos&label=Public%20Repos&color=7957d5) ![Followers](https://img.shields.io/github/followers/Prathamashastryc?label=Followers&style=flat&color=brightgreen) ![Stars](https://img.shields.io/github/stars/Prathamashastryc?label=Stars&style=flat&color=yellow) 
 
 ------------------------------------------------------------------------------------------------------------
+Languages:
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,html,java,js,kotlin,matlab,python,mysql)](https://skillicons.dev)
+
+What I use:
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,clion,cloudflare,codepen,linux,neovim,powershell,sublime,ubuntu,vscode,windows)](https://skillicons.dev)
