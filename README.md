@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Prathama C</h1>
 
 About Me:
 
