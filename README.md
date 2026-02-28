@@ -2,8 +2,9 @@
 
 About Me:
 
--🔭 I’m currently working on a email spam detector ML program.    
--🌱 I’m currently learning DS in C,Java and Python.  
+-🔭 I’m currently working on a Verified Contact Database using SQL.<br>
+-✅Compleated Projects: Email spam detector ML program.<br>
+-🌱 I’m currently learning: DAA in C,SQL and HTML,JS,CSS.<br>
 -📖Learnt Langs : HTML, CSS, JavaScript, C, C++, MATLAB, Python, Kotlin, Java, Bash.   
 -⚡Fun fact : I mostly like to work around Computers,Phone and old Consoles.  
 -📥My Projects : Come and vist my page and repos to view all of my work.
