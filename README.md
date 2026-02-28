@@ -10,7 +10,7 @@ About Me:
 -📥My Projects : Come and vist my page and repos to view all of my work.
 
 ------------------------------------------------------------------------------------------------
-
+Profile&Repo Report:
 ![Repos Badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Prathamashastryc&query=$.public_repos&label=Public%20Repos&color=7957d5) ![Followers](https://img.shields.io/github/followers/Prathamashastryc?label=Followers&style=flat&color=brightgreen) ![Stars](https://img.shields.io/github/stars/Prathamashastryc?label=Stars&style=flat&color=yellow) 
 
 ------------------------------------------------------------------------------------------------------------
